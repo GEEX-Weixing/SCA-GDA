@@ -1,0 +1,1 @@
+"""Minimal SCA-GDA implementation."""
