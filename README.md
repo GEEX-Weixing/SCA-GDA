@@ -1,4 +1,4 @@
-# SCA-GDA Minimal
+# SCA-GDA
 
 ## 工程结构
 
